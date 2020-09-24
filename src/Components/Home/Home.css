@@ -1,0 +1,14 @@
+.home{
+    background-image: url('../../image/rectanghle1.png');
+    padding: 10px 100px 10px 100px;
+}
+
+.likeCard img{
+    width: 150px;
+    height: 300px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.textContent{
+    margin-right: 150px;
+}

@@ -1,0 +1,10 @@
+.bookroom{
+    background-image: url('../../image/rectanghle1.png');
+    padding: 10px 100px 10px 100px;
+}
+.formContent{
+    background-color: thistle;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
